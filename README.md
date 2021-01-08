@@ -1,5 +1,5 @@
 ### Hey Folks, I'm Dhruv - Junior Data Scientist 👋
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
+[![Social banner for Dhruv](https://github.com/Dhruv/Dhruv/raw/master/assets/header-banner--optimized.svg)]
 
 ## I'm a Learner, Friend, Developer, and Dreamer!!
 
