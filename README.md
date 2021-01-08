@@ -15,14 +15,13 @@
 - [Convolutional neural network on MNIST handwritten dataset](https://en.wikipedia.org/wiki/MNIST_database)  🚀 *coming soon*
 - [Convolutional neural network on CIFAR10 dataset](https://www.kaggle.com/c/cifar-10)  🚀 *coming very soon*
 - [YOLO on microsoft COCOCO dataset]()  🚀 *coming soon*
-- <i class="ri-instagram-line"></i>
 
 
 
 ### Connect with me:
-
-[<img align="left" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Facebook]()
+- [Instagram](https://www.instagram.com/dhruv_001/)
+- [LinkedIn](https://www.linkedin.com/in/dhruv-sharma-346576191/)
 
 <br />
 
@@ -36,9 +35,6 @@
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Dhruv876)
+![Dhruv Github Stats](https://github-readme-stats.vercel.app/api?username=Dhruv876&show_icons=true&theme=radical)
 
 ![counter](https://en2y68clz7c6nyx.m.pipedream.net)
-
-
-[instagram]: https://www.instagram.com/dhruv_001/
-[linkedin]: https://www.linkedin.com/in/dhruv-sharma-346576191/
