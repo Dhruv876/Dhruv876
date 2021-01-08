@@ -15,7 +15,7 @@
 - [Convolutional neural network on MNIST handwritten dataset](https://en.wikipedia.org/wiki/MNIST_database)  🚀 *coming soon*
 - [Convolutional neural network on CIFAR10 dataset](https://www.kaggle.com/c/cifar-10)  🚀 *coming very soon*
 - [YOLO on microsoft COCOCO dataset]()  🚀 *coming soon*
--
+- <i class="ri-instagram-line"></i>
 
 
 
