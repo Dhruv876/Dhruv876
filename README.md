@@ -1,5 +1,5 @@
 ### Hey Folks, I'm Dhruv - Junior Data Scientist 👋
-[![Social banner for Dhruv](https://github.com/Dhruv/Dhruv/raw/master/assets/header-banner--optimized.svg)]
+
 
 ## I'm a Learner, Friend, Developer, and Dreamer!!
 
@@ -9,6 +9,18 @@
 - 🥅 2021 Goals: To contribute more and connect with others
 - ⚡ Fun fact: I am fitness freak and sprinter
 - This page is right now under construction
+
+### 💻 What i am currently/done working on
+- [GreeetinCard](https://greeetincard.crd.co)  🚀
+- CNN on MNIST dataset  🚀 *coming soon*
+- CNN on CIFAR10 dataset  🚀 *coming very soon*
+- YOLO on microsoft COCOCO dataset  🚀 *coming soon*
+- Quevant  🚀 *coming very soon* 🚀
+- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
+- Lofied  🚀 *coming soon*
+- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
+
+
 
 ### Connect with me:
 
