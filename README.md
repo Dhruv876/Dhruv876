@@ -11,14 +11,11 @@
 - This page is right now under construction
 
 ### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- CNN on MNIST dataset  🚀 *coming soon*
-- CNN on CIFAR10 dataset  🚀 *coming very soon*
-- YOLO on microsoft COCOCO dataset  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
+
+- [Convolutional neural network on MNIST handwritten dataset](https://en.wikipedia.org/wiki/MNIST_database)  🚀 *coming soon*
+- [Convolutional neural network on CIFAR10 dataset](https://www.kaggle.com/c/cifar-10)  🚀 *coming very soon*
+- [YOLO on microsoft COCOCO dataset]()  🚀 *coming soon*
+-
 
 
 
