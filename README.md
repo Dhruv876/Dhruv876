@@ -42,11 +42,13 @@ _Note: Data used in the projects are taken from several websites followed by cou
 <br />
 
 ### Languages and Tools:
-
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-
+![Python](https://www.google.com/search?q=python+logo+png&rlz=1C1CHBD_enCA867CA867&sxsrf=ALeKk03cXWr-OFhzuIo3rp3IQFMbtYr-Hg:1610145010872&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3naPLsY3uAhXInuAKHYsJAcMQ_AUoAXoECBEQAw&biw=1536&bih=722#imgrc=5SUoTLQNrSTVQM)
+![SQL](https://www.pngegg.com/en/png-tzfox)
+![Core Java](https://www.flaticon.com/free-icon/java_226777)
+![Machine Learning and Deep Learning](http://url/to/img.png)
+![Open CV2 and CV3](http://url/to/img.png)
+![Tableau](http://url/to/img.png)
+![Docker](http://url/to/img.png)
 <br />
 <br />
 
