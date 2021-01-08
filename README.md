@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?Dhruv876=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Dhruv876)
 
 
 [instagram]: https://www.instagram.com/dhruv_001/
