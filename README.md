@@ -26,12 +26,8 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![Github stats](https://github-readme-stats.vercel.app/api?Dhruv876=yourGithubUsername)
 
-  <img align="left" GitHub Stats" src="https://github.com/Dhruv876" />
-
-</details>
 
 [instagram]: https://www.instagram.com/dhruv_001/
 [linkedin]: https://www.linkedin.com/in/dhruv-sharma-346576191/
