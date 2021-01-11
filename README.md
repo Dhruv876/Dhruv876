@@ -32,6 +32,7 @@ _Note: Data used in the projects are taken from several websites followed by cou
 - [Music Recommendation System]  🚀 *coming soon*
 - [Sentiment analysis]  🚀 *coming soon*
 - [Computer vision fingers scanning]  🚀 *coming soon*
+- [Machine learning on Titanic dataset] 🚀 *coming soon*
 
 
 
