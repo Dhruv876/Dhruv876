@@ -33,6 +33,7 @@ _Note: Data used in the projects are taken from several websites followed by cou
 - [Sentiment analysis]  🚀 *coming soon*
 - [Computer vision fingers scanning]  🚀 *coming soon*
 - [Machine learning on Titanic dataset] 🚀 *coming soon*
+- [Andrew Ng Coursera Deep Learning Specialization course] 🚀 *coming soon*
 
 
 
