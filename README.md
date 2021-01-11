@@ -30,7 +30,8 @@ _Note: Data used in the projects are taken from several websites followed by cou
 - [Convolutional neural network on CIFAR10 dataset](https://www.kaggle.com/c/cifar-10)  🚀 *coming very soon*
 - [YOLO on microsoft COCO dataset](https://arxiv.org/abs/1405.0312)  🚀 *coming soon*
 - [Music Recommendation System]  🚀 *coming soon*
-- [Sentiment Analysis]  🚀 *coming soon*
+- [Sentiment analysis]  🚀 *coming soon*
+- [Computer vision fingers scanning]  🚀 *coming soon*
 
 
 
@@ -42,6 +43,7 @@ _Note: Data used in the projects are taken from several websites followed by cou
 <br />
 
 ### Languages and Tools:
+
 
 <br />
 <br />
