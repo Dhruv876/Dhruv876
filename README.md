@@ -22,12 +22,9 @@ _Note: Data used in the projects are taken from several websites followed by cou
 
 ### 💻 What i am currently/done working on
 
-- [Convolutional neural network on MNIST handwritten dataset](https://en.wikipedia.org/wiki/MNIST_database)  🚀 *coming soon*
-- [Convolutional neural network on CIFAR10 dataset](https://www.kaggle.com/c/cifar-10)  🚀 *coming very soon*
 - [YOLO on microsoft COCO dataset](https://arxiv.org/abs/1405.0312)  🚀 *coming soon*
 - [Music Recommendation System]  🚀 *coming soon*
 - [Sentiment analysis]  🚀 *coming soon*
-- [Computer vision fingers scanning]  🚀 *coming soon*
 - [Machine learning on Titanic dataset] 🚀 *coming soon*
 - [Andrew Ng Coursera Deep Learning Specialization course] 🚀 *coming soon*
 
