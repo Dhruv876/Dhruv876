@@ -2,7 +2,7 @@
 
 ## Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and passion purposes. Presented in the form of iPython Notebooks.
-_Note: Data used in the projects are taken from several websites followed by courses through Udemy and Coursera instructor._
+_Note: Data used in the projects are taken from several websites followed by courses through Udemy and Coursera instructor._ In content section each folder is allocated and contains several sub projects.
 
 ## I'm a Learner, Friend, Developer,and Dreamer!!
 
@@ -14,6 +14,12 @@ _Note: Data used in the projects are taken from several websites followed by cou
 - 👯 This page is always under construction
 
 ## Contents
+- [Deep Learning Projects/Neural Network](https://github.com/Dhruv876/Neural-Network): In this folder there are sub projects. It helped me to understand the foundations of deep learning. Able to build, apply, train, and apply fully connected deep neural networks. In this folder there are two projects about house price prediction and bank loan repayment.
+- [Convolutional Neural Network](https://github.com/Dhruv876/Convolutional-Neural-Network): 
+- [Computer Vision](https://github.com/Dhruv876/Computer-Vision):
+
+
+
 
 
 ### 💻 What i am currently/done working on
