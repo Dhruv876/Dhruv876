@@ -15,12 +15,10 @@ _Note: Data used in the projects are taken from several websites followed by cou
 
 ## Contents
 - [Deep Learning Projects/Neural Network](https://github.com/Dhruv876/Neural-Network): In this folder there are sub projects. It helped me to understand the foundations of deep learning. Able to build, apply, train, and apply fully connected deep neural networks. In this folder there are two projects about house price prediction and bank loan repayment.
-- [Convolutional Neural Network](https://github.com/Dhruv876/Convolutional-Neural-Network): 
-- [Computer Vision](https://github.com/Dhruv876/Computer-Vision):
-
-
-
-
+- [Convolutional Neural Network](https://github.com/Dhruv876/Convolutional-Neural-Network): In deep learning, a convolutional neural network is a class of deep neural networks, most commonly applied to analyzing visual imagery.There are three sub projects in this repository. 
+- [Computer Vision](https://github.com/Dhruv876/Computer-Vision): omputer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. 
+- [Machine Learning Micro Projects]():
+- [Data Analysis and Visualization]():
 
 ### 💻 What i am currently/done working on
 
