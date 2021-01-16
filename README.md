@@ -22,7 +22,7 @@ _Note: Data used in the projects are taken from several websites followed by cou
 
 ### 💻 What i am currently/done working on
 
-- [YOLO on microsoft COCO dataset](https://arxiv.org/abs/1405.0312)  🚀 *coming soon*
+- [YOLO on microsoft COCO dataset]  🚀 *coming soon*
 - [Music Recommendation System]  🚀 *coming soon*
 - [Sentiment analysis]  🚀 *coming soon*
 - [Machine learning on Titanic dataset] 🚀 *coming soon*
