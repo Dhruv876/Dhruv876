@@ -22,6 +22,8 @@ _Note: Data used in the projects are taken from several websites followed by cou
   - [Bank Loan Repayment](https://github.com/Dhruv876/Neural-Network-with-prediction-of-bank-loan-payment/blob/master/Lending%20Club%20Dataset.ipynb): Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), can to build a model that can predict wether or nor a borrower will pay back their loan? This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan. 
   - [Supervised learning on Breast Cancer](https://github.com/Dhruv876/Breast-Cancer/blob/master/Keras_Classification.ipynb): Working on binary classification label, to predict whether the patient has breast cancer or not.Passing the scaled features through the neural network.
   - [Data Mining on Liver-Fibrosis](https://github.com/Dhruv876/Prediction-of-liver-fibrosis-/blob/master/project.py): This was a group project, in which we used data mining techniques to distinguish the dataset and to predict whether the patient has liver fibrosis or not. Using the features in machine learning algorithms to check the best output.
+  - [CNN on Custom Images](https://github.com/Dhruv876/CNN-on-Custom-Images/blob/master/Cats_Dogs_CNN.ipynb): Custom images contain dogs and cats images folder. Dog:1 and Cat:0 will be passed through the set of a Convolutional neural network with keras to design a model that will predict whether the new test images are of dog or cat.
+
 
 
 ### 💻 What i am currently/done working on
