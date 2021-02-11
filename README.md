@@ -43,6 +43,6 @@ _Note: Data used in the projects are taken from several websites followed by cou
 <br />
 <br />
 
-#![Dhruv Github Stats](https://github-readme-stats.vercel.app/api?username=Dhruv876&show_icons=true&theme=radical)
+![Dhruv Github Stats](https://github-readme-stats.vercel.app/api?username=Dhruv876&show_icons=true&theme=radical)
 
-#![counter](https://en2y68clz7c6nyx.m.pipedream.net)
+![counter](https://en2y68clz7c6nyx.m.pipedream.net)
